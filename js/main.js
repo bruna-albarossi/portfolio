@@ -47,7 +47,7 @@ var zoomImage = function(id){
             break;
 
         default:
-            return 'img/logo bruna contrato.jpg';
+            return 'img/logo.jpg';
     }
 
 }
