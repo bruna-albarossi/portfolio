@@ -1,0 +1,38 @@
+.row {
+    margin: 2.5% 0% 0% 0%;
+}
+
+.header-style {
+    background-color: #A9A9A9;
+    padding: 1% 0% 0% 0%;
+}
+  
+.navbar-dark .navbar-toggler {
+    color: rgba(255,255,255,.5); 
+    border: none !important;
+}
+
+button:focus {
+    outline: 1px dotted;
+    outline: none; 
+}
+
+.modal-body {
+    max-height: 800px;
+    max-width: 800px;
+}
+
+.modal-header{
+    max-height: 50px;
+    max-width: 800px;
+    
+}
+
+.modal-dialog {
+    margin: 2% 0% 0% 20% !important;
+}
+
+p{
+    color:#A9A9A9;
+}
+    
